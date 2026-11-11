@@ -1,0 +1,709 @@
+# ja translation of the World wallpaper.
+# GPL-3.0-or-later, like the wallpaper.
+msgid ""
+msgstr ""
+"Project-Id-Version: world-wallpaper\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%1 FPS"
+msgstr "%1 FPS"
+
+msgid "%1 s"
+msgstr "%1 秒"
+
+msgid "(top level)"
+msgstr "（最上位）"
+
+msgid "Aircraft"
+msgstr "航空機"
+
+msgid "Aircraft color"
+msgstr "航空機の色"
+
+msgid "Aircraft: %1 answered with error %2."
+msgstr "航空機: %1 がエラー %2 を返しました。"
+
+msgid "Aircraft: %1 is not reachable. Is there an internet connection?"
+msgstr "航空機: %1 に接続できません。インターネットに接続されていますか?"
+
+msgid "Aircraft: %1 refuses more requests for now, next try in %2 min."
+msgstr "航空機: %1 は現在これ以上のリクエストを受け付けていません。%2 分後に再試行します。"
+
+msgid "Aircraft: %1 refuses more requests for now."
+msgstr "航空機: %1 は現在これ以上のリクエストを受け付けていません。"
+
+msgid "Aircraft: %1 sent an answer that cannot be read."
+msgstr "航空機: %1 から読み取れない応答が返されました。"
+
+msgid "All collections"
+msgstr "すべてのコレクション"
+
+msgid "Answer a few questions and let the rest be rolled"
+msgstr "いくつか質問に答えると、残りはランダムに決まります"
+
+msgid "Arc height (%)"
+msgstr "アークの高さ (%)"
+
+msgid "Around the Plasma accent color"
+msgstr "Plasma のアクセントカラーの周辺"
+
+msgid "Assistant…"
+msgstr "アシスタント…"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Automatic tilt"
+msgstr "自動の傾き"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background color:"
+msgstr "背景色:"
+
+msgid "Background:"
+msgstr "背景:"
+
+msgid "Battery frame rate:"
+msgstr "バッテリー時のフレームレート:"
+
+msgid "Black"
+msgstr "黒"
+
+msgid "Border color"
+msgstr "国境の色"
+
+msgid "Border opacity (%)"
+msgstr "国境の不透明度 (%)"
+
+msgid "Border width (px)"
+msgstr "国境の太さ (px)"
+
+msgid "Built-in themes are not changed. Use \"Duplicate\" to make an editable copy."
+msgstr "組み込みテーマは変更されません。「複製」で編集可能なコピーを作成してください。"
+
+msgid "Burn-in protection:"
+msgstr "焼き付き防止:"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Change the theme every:"
+msgstr "テーマを切り替える間隔:"
+
+msgid "Choose which collections and themes run on your desktop. Tick a whole collection or single themes from it. The ticked ones take turns. If nothing is ticked, the default theme runs."
+msgstr "デスクトップで実行するコレクションとテーマを選びます。コレクション全体または個別のテーマにチェックを入れます。チェックしたものが順番に切り替わります。何もチェックしないと既定のテーマが使われます。"
+
+msgid "Choose…"
+msgstr "選択…"
+
+msgid "Cities (% of the places)"
+msgstr "都市 (場所の %)"
+
+msgid "Clear defaults"
+msgstr "既定値を消去"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Coast line opacity (%)"
+msgstr "海岸線の不透明度 (%)"
+
+msgid "Coast line width (px)"
+msgstr "海岸線の太さ (px)"
+
+msgid "Collapse"
+msgstr "折りたたむ"
+
+msgid "Collection name:"
+msgstr "コレクション名:"
+
+msgid "Collection:"
+msgstr "コレクション:"
+
+msgid "Color"
+msgstr "色"
+
+msgid "Color of the labeled aircraft and their text"
+msgstr "ラベル付き航空機とそのテキストの色"
+
+msgid "Color of the names"
+msgstr "名前の色"
+
+msgid "Colors"
+msgstr "色"
+
+msgid "Colors:"
+msgstr "色:"
+
+msgid "Complementary"
+msgstr "補色"
+
+msgid "Cool"
+msgstr "寒色"
+
+msgid ""
+"Copy \"%1\" with its defaults, themes and subcollections to a new collection "
+"of your own. Use a path like \"parent/name\" to put it into another "
+"collection."
+msgstr ""
+"「%1」を既定値、テーマ、サブコレクションごと、自分用の新しいコレクションにコ"
+"ピーします。「親/名前」のようなパスを使うと、別のコレクションの中に置けます。"
+
+msgid "Copy the selected theme"
+msgstr "選択したテーマをコピー"
+
+msgid "Copy the whole collection"
+msgstr "コレクション全体をコピー"
+
+msgid "Country borders:"
+msgstr "国境:"
+
+msgid "Create %1 themes"
+msgstr "%1 個のテーマを作成"
+
+msgid "Create theme"
+msgstr "テーマを作成"
+
+msgid "Dark tone"
+msgstr "暗い色調"
+
+msgid "Dashed route of the labeled aircraft"
+msgstr "ラベル付き航空機の破線ルート"
+
+msgid "Data density:"
+msgstr "データ密度:"
+
+msgid "Data stream"
+msgstr "データストリーム"
+
+msgid "Defaults of \"%1\""
+msgstr "「%1」の既定値"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete collection"
+msgstr "コレクションを削除"
+
+msgid "Delete the collection with your own themes and subcollections in it"
+msgstr "自分のテーマとその中のサブコレクションを含むコレクションを削除"
+
+msgid "Delete the selected theme"
+msgstr "選択したテーマを削除"
+
+msgid "Delete the theme \"%1\"?"
+msgstr "テーマ「%1」を削除しますか?"
+
+msgid "Delete theme"
+msgstr "テーマを削除"
+
+msgid "Delete your collection \"%1\" with its defaults, all its own themes and all its subcollections?"
+msgstr "コレクション「%1」を、その既定値、すべてのテーマ、すべてのサブコレクションとともに削除しますか?"
+
+msgid "Density (%)"
+msgstr "密度 (%)"
+
+msgid "Disable built-in themes"
+msgstr "組み込みテーマを無効にする"
+
+msgid "Discard the changes to \"%1\"?"
+msgstr "「%1」への変更を破棄しますか?"
+
+msgid "Discard the changes to the defaults of \"%1\"?"
+msgstr "「%1」の既定値への変更を破棄しますか?"
+
+msgid "Duplicate"
+msgstr "複製"
+
+msgid "Duplicate collection"
+msgstr "コレクションを複製"
+
+msgid "Duplicate collection…"
+msgstr "コレクションを複製…"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Equirectangular (plain)"
+msgstr "正距円筒図法 (単純)"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "Explosion on impact (chance in %)"
+msgstr "着弾時の爆発 (確率 %)"
+
+msgid "Explosions:"
+msgstr "爆発:"
+
+msgid "Fade:"
+msgstr "フェード:"
+
+msgid "Faint grid of longitudes and latitudes"
+msgstr "経度と緯度の薄いグリッド"
+
+msgid "Fast"
+msgstr "速い"
+
+msgid "Few"
+msgstr "少ない"
+
+msgid "Flat"
+msgstr "フラット"
+
+msgid "For OLED screens: once a minute the whole picture shifts by up to 6 pixels, so no line stays on the same pixels for months."
+msgstr "OLED ディスプレイ向け: 1 分ごとに画像全体が最大 6 ピクセルずれるので、同じピクセルに線が何か月も残りません。"
+
+msgid "Generated"
+msgstr "生成"
+
+msgid "How far density, speed and explosions may wander from their typical values: %1 %"
+msgstr "密度・速度・爆発が標準値からどれだけ離れてよいか: %1 %"
+
+msgid "How many:"
+msgstr "個数:"
+
+msgid "Inherit everything"
+msgstr "すべて継承"
+
+msgid "Inside \"%1\" (inherits its defaults)"
+msgstr "「%1」の中（その既定値を継承）"
+
+msgid "Inside:"
+msgstr "場所:"
+
+msgid "Keep running normally"
+msgstr "通常どおり実行"
+
+msgid "Label: aircraft type and registration"
+msgstr "ラベル: 機種と登録記号"
+
+msgid "Label: airline or owner"
+msgstr "ラベル: 航空会社または所有者"
+
+msgid "Label: altitude and speed"
+msgstr "ラベル: 高度と速度"
+
+msgid "Label: departure and destination"
+msgstr "ラベル: 出発地と目的地"
+
+msgid "Labeled aircraft"
+msgstr "ラベル付き航空機"
+
+msgid "Labels (switch off to show no text at all)"
+msgstr "ラベル (オフにするとテキストを一切表示しません)"
+
+msgid "Language of the names"
+msgstr "名前の言語"
+
+msgid "Light tone"
+msgstr "明るい色調"
+
+msgid "Limit the frame rate"
+msgstr "フレームレートを制限"
+
+msgid "Line colors"
+msgstr "線の色"
+
+msgid "Lower values save power. The map itself is drawn only once, only the data stream is animated."
+msgstr "値を下げると電力を節約できます。地図は一度だけ描画され、アニメーションするのはデータストリームだけです。"
+
+msgid "Manage themes…"
+msgstr "テーマを管理…"
+
+msgid "Many"
+msgstr "多い"
+
+msgid "Map"
+msgstr "地図"
+
+msgid "Map projection"
+msgstr "地図の投影法"
+
+msgid "Map size (%)"
+msgstr "地図のサイズ (%)"
+
+msgid "Maximum frame rate:"
+msgstr "最大フレームレート:"
+
+msgid "Miller (poles not squashed)"
+msgstr "ミラー図法 (極が潰れない)"
+
+msgid "Most aircraft shown, as far apart as possible (0 = all)"
+msgstr "表示する航空機の最大数 (できるだけ離して選ぶ、0 = すべて)"
+
+msgid "Move the picture a few pixels now and then"
+msgstr "ときどき画像を数ピクセル動かす"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Name:"
+msgstr "名前:"
+
+msgid "Neighbouring hues"
+msgstr "隣り合う色相"
+
+msgid "Neon"
+msgstr "ネオン"
+
+msgid "Never"
+msgstr "しない"
+
+msgid "New collection"
+msgstr "新しいコレクション"
+
+msgid "New collection…"
+msgstr "新しいコレクション…"
+
+msgid "New subcollection…"
+msgstr "新しいサブコレクション…"
+
+msgid "New theme"
+msgstr "新しいテーマ"
+
+msgid "New theme here"
+msgstr "ここに新しいテーマ"
+
+msgid "Next World Theme"
+msgstr "次の World テーマ"
+
+msgid "Normal"
+msgstr "標準"
+
+msgid "Number of colors:"
+msgstr "色の数:"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Often"
+msgstr "よく"
+
+msgid "On battery:"
+msgstr "バッテリー使用時:"
+
+msgid "One hue, many shades"
+msgstr "1 つの色相、多くの濃淡"
+
+msgid "Opacity of the aircraft (%)"
+msgstr "航空機の不透明度 (%)"
+
+msgid "Opacity of the arcs (%)"
+msgstr "アークの不透明度 (%)"
+
+msgid "Opacity of the names (%)"
+msgstr "名前の不透明度 (%)"
+
+msgid "Open folder"
+msgstr "フォルダーを開く"
+
+msgid "Open theme folder"
+msgstr "テーマフォルダーを開く"
+
+msgid "Overlay:"
+msgstr "オーバーレイ:"
+
+msgid "Own color"
+msgstr "独自の色"
+
+msgid "Pastel"
+msgstr "パステル"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Pause while:"
+msgstr "一時停止する条件:"
+
+msgid ""
+"Pausing keeps the picture as it is and costs no power. Drawing continues "
+"where it stopped."
+msgstr ""
+"一時停止すると画面はそのままになり、電力も消費しません。描画は止まった場所か"
+"ら再開します。"
+
+msgid "Performance"
+msgstr "パフォーマンス"
+
+msgid "Power"
+msgstr "電源"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Rainbow (every connection gets its own color)"
+msgstr "レインボー (接続ごとに別の色)"
+
+msgid "Rainbow lightness (lower on bright backgrounds)"
+msgstr "レインボーの明るさ (明るい背景では低め)"
+
+msgid "Rainbow lines"
+msgstr "レインボーの線"
+
+msgid "Rainbow saturation"
+msgstr "レインボーの彩度"
+
+msgid "Random"
+msgstr "ランダム"
+
+msgid "Random mix"
+msgstr "ランダムな組み合わせ"
+
+msgid "Random order"
+msgstr "ランダムな順序"
+
+msgid "Randomness:"
+msgstr "ランダム性:"
+
+msgid "Rare"
+msgstr "まれに"
+
+msgid "Read the theme folder again."
+msgstr "テーマフォルダーを再読み込みしました。"
+
+msgid "Reads the theme folder again, for example after you edited or added files"
+msgstr "テーマフォルダーを再読み込みします (ファイルを編集・追加した後など)"
+
+msgid "Refresh Aircraft"
+msgstr "航空機を更新"
+
+msgid "Reload from theme folder"
+msgstr "テーマフォルダーから再読み込み"
+
+msgid "Remove all defaults of this collection"
+msgstr "このコレクションの既定値をすべて削除"
+
+msgid "Remove all own values, the theme then looks like its collection"
+msgstr "独自の値をすべて削除します。テーマはコレクションと同じ見た目になります"
+
+msgid "Remove color"
+msgstr "色を削除"
+
+msgid "Resolution:"
+msgstr "解像度:"
+
+msgid "Restart World Data Stream"
+msgstr "World のデータストリームを再開"
+
+msgid "Restore defaults"
+msgstr "既定値に戻す"
+
+msgid "Revert"
+msgstr "元に戻す"
+
+msgid "Roll again"
+msgstr "振り直す"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save the changes to \"%1\"?"
+msgstr "「%1」への変更を保存しますか?"
+
+msgid "Save the changes to the defaults of \"%1\"?"
+msgstr "「%1」の既定値への変更を保存しますか?"
+
+msgid "Screen refresh rate"
+msgstr "画面のリフレッシュレート"
+
+msgid ""
+"Share of the screen size the picture is calculated at. Lower values use less "
+"memory and power but look coarser."
+msgstr ""
+"画像を計算する際の画面サイズに対する割合です。小さい値ほどメモリと電力を節約"
+"できますが、粗くなります。"
+
+msgid "Show country borders"
+msgstr "国境を表示"
+
+msgid "Show country names"
+msgstr "国名を表示"
+
+msgid "Show frame rate and resource use"
+msgstr "フレームレートとリソース使用量を表示"
+
+msgid "Show live aircraft (needs the internet)"
+msgstr "ライブ航空機を表示 (インターネットが必要)"
+
+msgid "Shows frames per second and what this wallpaper costs: CPU time of the data stream, memory for the picture, and the data sent to the GPU per second."
+msgstr "毎秒のフレーム数と、この壁紙のコスト (データストリームの CPU 時間、画像のメモリ、毎秒 GPU に送られるデータ量) を表示します。"
+
+msgid "Size of the aircraft (%)"
+msgstr "航空機のサイズ (%)"
+
+msgid "Size of the explosions (%)"
+msgstr "爆発のサイズ (%)"
+
+msgid "Size of the labels (px)"
+msgstr "ラベルのサイズ (px)"
+
+msgid "Size of the names (px)"
+msgstr "名前のサイズ (px)"
+
+msgid "Size of the nodes (%)"
+msgstr "ノードのサイズ (%)"
+
+msgid "Slow"
+msgstr "遅い"
+
+msgid "Sparks per explosion"
+msgstr "爆発ごとの火花数"
+
+msgid "Speed (%)"
+msgstr "速度 (%)"
+
+msgid "Speed:"
+msgstr "速度:"
+
+msgid "Strong"
+msgstr "強い"
+
+msgid "Subtle"
+msgstr "控えめ"
+
+msgid "System language"
+msgstr "システムの言語"
+
+msgid "Test connection"
+msgstr "接続をテスト"
+
+msgid ""
+"The collection is created first; the themes inherit what the assistant does "
+"not set from the collection they are inside."
+msgstr ""
+"先にコレクションが作成されます。アシスタントが設定しない項目は、テーマが属す"
+"るコレクションから継承されます。"
+
+msgid "The defaults of a built-in collection cannot be changed. Use \"Duplicate collection…\" to make an own copy."
+msgstr "組み込みコレクションの既定値は変更できません。「コレクションを複製…」で自分用のコピーを作成してください。"
+
+msgid ""
+"The preview becomes the first theme, the others are rolled with the same "
+"answers. "
+msgstr ""
+"プレビューが最初のテーマになり、残りは同じ回答でランダムに作成されます。"
+
+msgid ""
+"The themes inherit everything this assistant does not set from their "
+"collection."
+msgstr ""
+"このアシスタントが設定しない項目は、すべてテーマが属するコレクションから継承"
+"されます。"
+
+msgid "Theme assistant"
+msgstr "テーマアシスタント"
+
+msgid "Theme name:"
+msgstr "テーマ名:"
+
+msgid "Themes"
+msgstr "テーマ"
+
+msgid "There is already a theme with this name in that collection."
+msgstr "そのコレクションには同じ名前のテーマがすでにあります。"
+
+msgid ""
+"These values apply to every theme in this collection and its subcollections, "
+"unless a theme sets its own."
+msgstr ""
+"これらの値は、テーマが独自の値を設定していない限り、このコレクションとそのサ"
+"ブコレクション内のすべてのテーマに適用されます。"
+
+msgid "This collection name is not possible."
+msgstr "このコレクション名は使用できません。"
+
+msgid "This theme name is not possible."
+msgstr "このテーマ名は使用できません。"
+
+msgid "Tilt (°, 0 = automatic, 90 = flat)"
+msgstr "傾き (°、0 = 自動、90 = フラット)"
+
+msgid "Triad"
+msgstr "トライアド"
+
+msgid "Unsaved changes"
+msgstr "未保存の変更"
+
+msgid "Update the aircraft every (minutes)"
+msgstr "航空機を更新する間隔 (分)"
+
+msgid "Use the Plasma accent color for the lines"
+msgstr "線に Plasma のアクセントカラーを使う"
+
+msgid "Use the inherited value"
+msgstr "継承された値を使う"
+
+msgid ""
+"Values marked \"from …\" or \"default\" are inherited. Change one to give "
+"this theme its own value; the arrow takes it back."
+msgstr ""
+"「…から」または「既定」と表示された値は継承されています。値を変更するとこの"
+"テーマ独自の値になり、矢印で元に戻せます。"
+
+msgid "Vertical position (%)"
+msgstr "垂直位置 (%)"
+
+msgid "View"
+msgstr "表示"
+
+msgid "View:"
+msgstr "表示:"
+
+msgid "Warm"
+msgstr "暖色"
+
+msgid "White"
+msgstr "白"
+
+msgid "World %1"
+msgstr "World %1"
+
+msgid "World themes"
+msgstr "World のテーマ"
+
+msgid "Your own themes are kept"
+msgstr "自分のテーマは保持されます"
+
+msgid "Your themes are the files in this folder. Edit or share them, then use \"Reload from theme folder\" here; the desktop takes them over when you apply the settings."
+msgstr "テーマはこのフォルダー内のファイルです。編集や共有をしたら、ここで「テーマフォルダーから再読み込み」を使ってください。設定を適用するとデスクトップに反映されます。"
+
+msgid "a maximized or fullscreen window covers the desktop"
+msgstr "最大化またはフルスクリーンのウィンドウがデスクトップを覆っている"
+
+msgid "built-in"
+msgstr "組み込み"
+
+msgid "changed"
+msgstr "変更あり"
+
+msgid "copy"
+msgstr "コピー"
+
+msgid "default"
+msgstr "既定"
+
+msgid "error %1"
+msgstr "エラー %1"
+
+msgid "from \"%1\""
+msgstr "「%1」から"
+
+msgid "not reachable"
+msgstr "接続できません"
+
+msgid "own"
+msgstr "自分用"
+
+msgid "set here"
+msgstr "ここで設定"
+
+msgid "the screen is locked"
+msgstr "画面がロックされている"

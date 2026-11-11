@@ -1,0 +1,17 @@
+name: Release
+on:
+  push:
+    tags: ['v*']
+jobs:
+  release:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y gettext
+      - run: tools/make-package.sh
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: dist/World-*.zip
+          body_path: .github/release-body.md

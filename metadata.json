@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [{ "Name": "Spider19996" }],
+        "Description": "World: a flat world map with a simulated data stream, rendered in QML",
+        "Icon": "preferences-desktop-wallpaper",
+        "Id": "de.robin.world",
+        "Version": "1.0.0",
+        "License": "GPL-3.0-or-later",
+        "Name": "World"
+    },
+    "KPackageStructure": "Plasma/Wallpaper",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

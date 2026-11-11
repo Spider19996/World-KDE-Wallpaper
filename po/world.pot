@@ -1,0 +1,721 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the world-wallpaper package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: world-wallpaper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-11 17:12+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%1 FPS"
+msgstr ""
+
+msgid "%1 s"
+msgstr ""
+
+msgid "(top level)"
+msgstr ""
+
+msgid "Aircraft"
+msgstr ""
+
+msgid "Aircraft color"
+msgstr ""
+
+msgid "Aircraft: %1 answered with error %2."
+msgstr ""
+
+msgid "Aircraft: %1 is not reachable. Is there an internet connection?"
+msgstr ""
+
+msgid "Aircraft: %1 refuses more requests for now, next try in %2 min."
+msgstr ""
+
+msgid "Aircraft: %1 refuses more requests for now."
+msgstr ""
+
+msgid "Aircraft: %1 sent an answer that cannot be read."
+msgstr ""
+
+msgid "All collections"
+msgstr ""
+
+msgid "Answer a few questions and let the rest be rolled"
+msgstr ""
+
+msgid "Arc height (%)"
+msgstr ""
+
+msgid "Around the Plasma accent color"
+msgstr ""
+
+msgid "Assistant…"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Automatic tilt"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Background color:"
+msgstr ""
+
+msgid "Background:"
+msgstr ""
+
+msgid "Battery frame rate:"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Border opacity (%)"
+msgstr ""
+
+msgid "Border width (px)"
+msgstr ""
+
+msgid ""
+"Built-in themes are not changed. Use \"Duplicate\" to make an editable copy."
+msgstr ""
+
+msgid "Burn-in protection:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Change the theme every:"
+msgstr ""
+
+msgid ""
+"Choose which collections and themes run on your desktop. Tick a whole "
+"collection or single themes from it. The ticked ones take turns. If nothing "
+"is ticked, the default theme runs."
+msgstr ""
+
+msgid "Choose…"
+msgstr ""
+
+msgid "Cities (% of the places)"
+msgstr ""
+
+msgid "Clear defaults"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Coast line opacity (%)"
+msgstr ""
+
+msgid "Coast line width (px)"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
+
+msgid "Collection name:"
+msgstr ""
+
+msgid "Collection:"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color of the labeled aircraft and their text"
+msgstr ""
+
+msgid "Color of the names"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Colors:"
+msgstr ""
+
+msgid "Complementary"
+msgstr ""
+
+msgid "Cool"
+msgstr ""
+
+msgid ""
+"Copy \"%1\" with its defaults, themes and subcollections to a new collection "
+"of your own. Use a path like \"parent/name\" to put it into another "
+"collection."
+msgstr ""
+
+msgid "Copy the selected theme"
+msgstr ""
+
+msgid "Copy the whole collection"
+msgstr ""
+
+msgid "Country borders:"
+msgstr ""
+
+msgid "Create %1 themes"
+msgstr ""
+
+msgid "Create theme"
+msgstr ""
+
+msgid "Dark tone"
+msgstr ""
+
+msgid "Dashed route of the labeled aircraft"
+msgstr ""
+
+msgid "Data density:"
+msgstr ""
+
+msgid "Data stream"
+msgstr ""
+
+msgid "Defaults of \"%1\""
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete collection"
+msgstr ""
+
+msgid "Delete the collection with your own themes and subcollections in it"
+msgstr ""
+
+msgid "Delete the selected theme"
+msgstr ""
+
+msgid "Delete the theme \"%1\"?"
+msgstr ""
+
+msgid "Delete theme"
+msgstr ""
+
+msgid ""
+"Delete your collection \"%1\" with its defaults, all its own themes and all "
+"its subcollections?"
+msgstr ""
+
+msgid "Density (%)"
+msgstr ""
+
+msgid "Disable built-in themes"
+msgstr ""
+
+msgid "Discard the changes to \"%1\"?"
+msgstr ""
+
+msgid "Discard the changes to the defaults of \"%1\"?"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Duplicate collection"
+msgstr ""
+
+msgid "Duplicate collection…"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Equirectangular (plain)"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "Explosion on impact (chance in %)"
+msgstr ""
+
+msgid "Explosions:"
+msgstr ""
+
+msgid "Fade:"
+msgstr ""
+
+msgid "Faint grid of longitudes and latitudes"
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Few"
+msgstr ""
+
+msgid "Flat"
+msgstr ""
+
+msgid ""
+"For OLED screens: once a minute the whole picture shifts by up to 6 pixels, "
+"so no line stays on the same pixels for months."
+msgstr ""
+
+msgid "Generated"
+msgstr ""
+
+msgid ""
+"How far density, speed and explosions may wander from their typical values: "
+"%1 %"
+msgstr ""
+
+msgid "How many:"
+msgstr ""
+
+msgid "Inherit everything"
+msgstr ""
+
+msgid "Inside \"%1\" (inherits its defaults)"
+msgstr ""
+
+msgid "Inside:"
+msgstr ""
+
+msgid "Keep running normally"
+msgstr ""
+
+msgid "Label: aircraft type and registration"
+msgstr ""
+
+msgid "Label: airline or owner"
+msgstr ""
+
+msgid "Label: altitude and speed"
+msgstr ""
+
+msgid "Label: departure and destination"
+msgstr ""
+
+msgid "Labeled aircraft"
+msgstr ""
+
+msgid "Labels (switch off to show no text at all)"
+msgstr ""
+
+msgid "Language of the names"
+msgstr ""
+
+msgid "Light tone"
+msgstr ""
+
+msgid "Limit the frame rate"
+msgstr ""
+
+msgid "Line colors"
+msgstr ""
+
+msgid ""
+"Lower values save power. The map itself is drawn only once, only the data "
+"stream is animated."
+msgstr ""
+
+msgid "Manage themes…"
+msgstr ""
+
+msgid "Many"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Map projection"
+msgstr ""
+
+msgid "Map size (%)"
+msgstr ""
+
+msgid "Maximum frame rate:"
+msgstr ""
+
+msgid "Miller (poles not squashed)"
+msgstr ""
+
+msgid "Most aircraft shown, as far apart as possible (0 = all)"
+msgstr ""
+
+msgid "Move the picture a few pixels now and then"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Neighbouring hues"
+msgstr ""
+
+msgid "Neon"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New collection"
+msgstr ""
+
+msgid "New collection…"
+msgstr ""
+
+msgid "New subcollection…"
+msgstr ""
+
+msgid "New theme"
+msgstr ""
+
+msgid "New theme here"
+msgstr ""
+
+msgid "Next World Theme"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Number of colors:"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Often"
+msgstr ""
+
+msgid "On battery:"
+msgstr ""
+
+msgid "One hue, many shades"
+msgstr ""
+
+msgid "Opacity of the aircraft (%)"
+msgstr ""
+
+msgid "Opacity of the arcs (%)"
+msgstr ""
+
+msgid "Opacity of the names (%)"
+msgstr ""
+
+msgid "Open folder"
+msgstr ""
+
+msgid "Open theme folder"
+msgstr ""
+
+msgid "Overlay:"
+msgstr ""
+
+msgid "Own color"
+msgstr ""
+
+msgid "Pastel"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Pause while:"
+msgstr ""
+
+msgid ""
+"Pausing keeps the picture as it is and costs no power. Drawing continues "
+"where it stopped."
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Power"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Rainbow (every connection gets its own color)"
+msgstr ""
+
+msgid "Rainbow lightness (lower on bright backgrounds)"
+msgstr ""
+
+msgid "Rainbow lines"
+msgstr ""
+
+msgid "Rainbow saturation"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Random mix"
+msgstr ""
+
+msgid "Random order"
+msgstr ""
+
+msgid "Randomness:"
+msgstr ""
+
+msgid "Rare"
+msgstr ""
+
+msgid "Read the theme folder again."
+msgstr ""
+
+msgid ""
+"Reads the theme folder again, for example after you edited or added files"
+msgstr ""
+
+msgid "Refresh Aircraft"
+msgstr ""
+
+msgid "Reload from theme folder"
+msgstr ""
+
+msgid "Remove all defaults of this collection"
+msgstr ""
+
+msgid "Remove all own values, the theme then looks like its collection"
+msgstr ""
+
+msgid "Remove color"
+msgstr ""
+
+msgid "Resolution:"
+msgstr ""
+
+msgid "Restart World Data Stream"
+msgstr ""
+
+msgid "Restore defaults"
+msgstr ""
+
+msgid "Revert"
+msgstr ""
+
+msgid "Roll again"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save the changes to \"%1\"?"
+msgstr ""
+
+msgid "Save the changes to the defaults of \"%1\"?"
+msgstr ""
+
+msgid "Screen refresh rate"
+msgstr ""
+
+msgid ""
+"Share of the screen size the picture is calculated at. Lower values use less "
+"memory and power but look coarser."
+msgstr ""
+
+msgid "Show country borders"
+msgstr ""
+
+msgid "Show country names"
+msgstr ""
+
+msgid "Show frame rate and resource use"
+msgstr ""
+
+msgid "Show live aircraft (needs the internet)"
+msgstr ""
+
+msgid ""
+"Shows frames per second and what this wallpaper costs: CPU time of the data "
+"stream, memory for the picture, and the data sent to the GPU per second."
+msgstr ""
+
+msgid "Size of the aircraft (%)"
+msgstr ""
+
+msgid "Size of the explosions (%)"
+msgstr ""
+
+msgid "Size of the labels (px)"
+msgstr ""
+
+msgid "Size of the names (px)"
+msgstr ""
+
+msgid "Size of the nodes (%)"
+msgstr ""
+
+msgid "Slow"
+msgstr ""
+
+msgid "Sparks per explosion"
+msgstr ""
+
+msgid "Speed (%)"
+msgstr ""
+
+msgid "Speed:"
+msgstr ""
+
+msgid "Strong"
+msgstr ""
+
+msgid "Subtle"
+msgstr ""
+
+msgid "System language"
+msgstr ""
+
+msgid "Test connection"
+msgstr ""
+
+msgid ""
+"The collection is created first; the themes inherit what the assistant does "
+"not set from the collection they are inside."
+msgstr ""
+
+msgid ""
+"The defaults of a built-in collection cannot be changed. Use \"Duplicate "
+"collection…\" to make an own copy."
+msgstr ""
+
+msgid ""
+"The preview becomes the first theme, the others are rolled with the same "
+"answers. "
+msgstr ""
+
+msgid ""
+"The themes inherit everything this assistant does not set from their "
+"collection."
+msgstr ""
+
+msgid "Theme assistant"
+msgstr ""
+
+msgid "Theme name:"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "There is already a theme with this name in that collection."
+msgstr ""
+
+msgid ""
+"These values apply to every theme in this collection and its subcollections, "
+"unless a theme sets its own."
+msgstr ""
+
+msgid "This collection name is not possible."
+msgstr ""
+
+msgid "This theme name is not possible."
+msgstr ""
+
+msgid "Tilt (°, 0 = automatic, 90 = flat)"
+msgstr ""
+
+msgid "Triad"
+msgstr ""
+
+msgid "Unsaved changes"
+msgstr ""
+
+msgid "Update the aircraft every (minutes)"
+msgstr ""
+
+msgid "Use the Plasma accent color for the lines"
+msgstr ""
+
+msgid "Use the inherited value"
+msgstr ""
+
+msgid ""
+"Values marked \"from …\" or \"default\" are inherited. Change one to give "
+"this theme its own value; the arrow takes it back."
+msgstr ""
+
+msgid "Vertical position (%)"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "View:"
+msgstr ""
+
+msgid "Warm"
+msgstr ""
+
+msgid "White"
+msgstr ""
+
+msgid "World %1"
+msgstr ""
+
+msgid "World themes"
+msgstr ""
+
+msgid "Your own themes are kept"
+msgstr ""
+
+msgid ""
+"Your themes are the files in this folder. Edit or share them, then use "
+"\"Reload from theme folder\" here; the desktop takes them over when you "
+"apply the settings."
+msgstr ""
+
+msgid "a maximized or fullscreen window covers the desktop"
+msgstr ""
+
+msgid "built-in"
+msgstr ""
+
+msgid "changed"
+msgstr ""
+
+msgid "copy"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "error %1"
+msgstr ""
+
+msgid "from \"%1\""
+msgstr ""
+
+msgid "not reachable"
+msgstr ""
+
+msgid "own"
+msgstr ""
+
+msgid "set here"
+msgstr ""
+
+msgid "the screen is locked"
+msgstr ""

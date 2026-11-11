@@ -1,0 +1,8 @@
+dist/
+contents/locale/
+*.zip
+.vscode/
+.idea/
+*~
+*.swp
+.claude/

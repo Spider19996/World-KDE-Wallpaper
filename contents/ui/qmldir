@@ -1,0 +1,9 @@
+singleton ThemeSettings 1.0 ThemeSettings.qml
+AircraftFeed 1.0 AircraftFeed.qml
+CoveredDetector 1.0 CoveredDetector.qml
+PowerMonitor 1.0 PowerMonitor.qml
+ThemeAssistant 1.0 ThemeAssistant.qml
+ThemeFiles 1.0 ThemeFiles.qml
+ThemeManager 1.0 ThemeManager.qml
+ThemeSelector 1.0 ThemeSelector.qml
+WorldScene 1.0 WorldScene.qml

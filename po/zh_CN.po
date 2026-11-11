@@ -1,0 +1,699 @@
+# zh_CN translation of the World wallpaper.
+# GPL-3.0-or-later, like the wallpaper.
+msgid ""
+msgstr ""
+"Project-Id-Version: world-wallpaper\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%1 FPS"
+msgstr "%1 FPS"
+
+msgid "%1 s"
+msgstr "%1 秒"
+
+msgid "(top level)"
+msgstr "（顶层）"
+
+msgid "Aircraft"
+msgstr "飞机"
+
+msgid "Aircraft color"
+msgstr "飞机颜色"
+
+msgid "Aircraft: %1 answered with error %2."
+msgstr "飞机：%1 返回了错误 %2。"
+
+msgid "Aircraft: %1 is not reachable. Is there an internet connection?"
+msgstr "飞机：无法连接 %1。是否已联网？"
+
+msgid "Aircraft: %1 refuses more requests for now, next try in %2 min."
+msgstr "飞机：%1 暂时拒绝更多请求，%2 分钟后重试。"
+
+msgid "Aircraft: %1 refuses more requests for now."
+msgstr "飞机：%1 暂时拒绝更多请求。"
+
+msgid "Aircraft: %1 sent an answer that cannot be read."
+msgstr "飞机：%1 返回了无法读取的响应。"
+
+msgid "All collections"
+msgstr "所有集合"
+
+msgid "Answer a few questions and let the rest be rolled"
+msgstr "回答几个问题，其余随机生成"
+
+msgid "Arc height (%)"
+msgstr "弧线高度 (%)"
+
+msgid "Around the Plasma accent color"
+msgstr "围绕 Plasma 强调色"
+
+msgid "Assistant…"
+msgstr "向导…"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Automatic tilt"
+msgstr "自动倾斜"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background color:"
+msgstr "背景颜色："
+
+msgid "Background:"
+msgstr "背景："
+
+msgid "Battery frame rate:"
+msgstr "使用电池时的帧率："
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Border color"
+msgstr "国界颜色"
+
+msgid "Border opacity (%)"
+msgstr "国界不透明度 (%)"
+
+msgid "Border width (px)"
+msgstr "国界宽度 (px)"
+
+msgid "Built-in themes are not changed. Use \"Duplicate\" to make an editable copy."
+msgstr "内置主题不会被更改。请使用“复制”创建可编辑的副本。"
+
+msgid "Burn-in protection:"
+msgstr "防烧屏："
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Change the theme every:"
+msgstr "每隔多久切换主题："
+
+msgid "Choose which collections and themes run on your desktop. Tick a whole collection or single themes from it. The ticked ones take turns. If nothing is ticked, the default theme runs."
+msgstr "选择在桌面上运行的合集和主题。可勾选整个合集或其中的单个主题。勾选的主题会轮流显示。若未勾选任何项，则使用默认主题。"
+
+msgid "Choose…"
+msgstr "选择…"
+
+msgid "Cities (% of the places)"
+msgstr "城市 (占地点的 %)"
+
+msgid "Clear defaults"
+msgstr "清除默认值"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Coast line opacity (%)"
+msgstr "海岸线不透明度 (%)"
+
+msgid "Coast line width (px)"
+msgstr "海岸线宽度 (px)"
+
+msgid "Collapse"
+msgstr "折叠"
+
+msgid "Collection name:"
+msgstr "集合名称："
+
+msgid "Collection:"
+msgstr "集合："
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Color of the labeled aircraft and their text"
+msgstr "带标签飞机及其文字的颜色"
+
+msgid "Color of the names"
+msgstr "名称颜色"
+
+msgid "Colors"
+msgstr "颜色"
+
+msgid "Colors:"
+msgstr "颜色："
+
+msgid "Complementary"
+msgstr "互补色"
+
+msgid "Cool"
+msgstr "冷色"
+
+msgid ""
+"Copy \"%1\" with its defaults, themes and subcollections to a new collection "
+"of your own. Use a path like \"parent/name\" to put it into another "
+"collection."
+msgstr ""
+"将“%1”连同其默认值、主题和子集合复制到您自己的新集合中。使用“上级/名称”形式的"
+"路径可将其放入另一个集合。"
+
+msgid "Copy the selected theme"
+msgstr "复制所选主题"
+
+msgid "Copy the whole collection"
+msgstr "复制整个集合"
+
+msgid "Country borders:"
+msgstr "国界："
+
+msgid "Create %1 themes"
+msgstr "创建 %1 个主题"
+
+msgid "Create theme"
+msgstr "创建主题"
+
+msgid "Dark tone"
+msgstr "深色调"
+
+msgid "Dashed route of the labeled aircraft"
+msgstr "带标签飞机的虚线航线"
+
+msgid "Data density:"
+msgstr "数据密度："
+
+msgid "Data stream"
+msgstr "数据流"
+
+msgid "Defaults of \"%1\""
+msgstr "“%1”的默认值"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete collection"
+msgstr "删除集合"
+
+msgid "Delete the collection with your own themes and subcollections in it"
+msgstr "删除集合及其中您自己的主题和子集合"
+
+msgid "Delete the selected theme"
+msgstr "删除所选主题"
+
+msgid "Delete the theme \"%1\"?"
+msgstr "要删除主题“%1”吗？"
+
+msgid "Delete theme"
+msgstr "删除主题"
+
+msgid "Delete your collection \"%1\" with its defaults, all its own themes and all its subcollections?"
+msgstr "要删除您的合集“%1”及其默认值、所有主题和所有子合集吗？"
+
+msgid "Density (%)"
+msgstr "密度 (%)"
+
+msgid "Disable built-in themes"
+msgstr "禁用内置主题"
+
+msgid "Discard the changes to \"%1\"?"
+msgstr "要放弃对“%1”的更改吗？"
+
+msgid "Discard the changes to the defaults of \"%1\"?"
+msgstr "要放弃对“%1”默认值的更改吗？"
+
+msgid "Duplicate"
+msgstr "复制"
+
+msgid "Duplicate collection"
+msgstr "复制集合"
+
+msgid "Duplicate collection…"
+msgstr "复制集合…"
+
+msgid "English"
+msgstr "英语"
+
+msgid "Equirectangular (plain)"
+msgstr "等距圆柱 (简单)"
+
+msgid "Expand"
+msgstr "展开"
+
+msgid "Explosion on impact (chance in %)"
+msgstr "撞击时爆炸 (概率 %)"
+
+msgid "Explosions:"
+msgstr "爆炸："
+
+msgid "Fade:"
+msgstr "淡入淡出："
+
+msgid "Faint grid of longitudes and latitudes"
+msgstr "淡淡的经纬网格"
+
+msgid "Fast"
+msgstr "快"
+
+msgid "Few"
+msgstr "少量"
+
+msgid "Flat"
+msgstr "平面"
+
+msgid "For OLED screens: once a minute the whole picture shifts by up to 6 pixels, so no line stays on the same pixels for months."
+msgstr "适用于 OLED 屏幕：每分钟整个画面移动最多 6 个像素，这样线条不会数月停留在相同的像素上。"
+
+msgid "Generated"
+msgstr "已生成"
+
+msgid "How far density, speed and explosions may wander from their typical values: %1 %"
+msgstr "密度、速度和爆炸可偏离典型值的幅度：%1 %"
+
+msgid "How many:"
+msgstr "数量："
+
+msgid "Inherit everything"
+msgstr "全部继承"
+
+msgid "Inside \"%1\" (inherits its defaults)"
+msgstr "在“%1”内（继承其默认值）"
+
+msgid "Inside:"
+msgstr "位于："
+
+msgid "Keep running normally"
+msgstr "正常运行"
+
+msgid "Label: aircraft type and registration"
+msgstr "标签：机型和注册号"
+
+msgid "Label: airline or owner"
+msgstr "标签：航空公司或所有者"
+
+msgid "Label: altitude and speed"
+msgstr "标签：高度和速度"
+
+msgid "Label: departure and destination"
+msgstr "标签：出发地和目的地"
+
+msgid "Labeled aircraft"
+msgstr "带标签的飞机"
+
+msgid "Labels (switch off to show no text at all)"
+msgstr "标签 (关闭后完全不显示文字)"
+
+msgid "Language of the names"
+msgstr "名称语言"
+
+msgid "Light tone"
+msgstr "浅色调"
+
+msgid "Limit the frame rate"
+msgstr "限制帧率"
+
+msgid "Line colors"
+msgstr "线条颜色"
+
+msgid "Lower values save power. The map itself is drawn only once, only the data stream is animated."
+msgstr "较低的值可节省电量。地图只绘制一次，只有数据流在动。"
+
+msgid "Manage themes…"
+msgstr "管理主题…"
+
+msgid "Many"
+msgstr "大量"
+
+msgid "Map"
+msgstr "地图"
+
+msgid "Map projection"
+msgstr "地图投影"
+
+msgid "Map size (%)"
+msgstr "地图大小 (%)"
+
+msgid "Maximum frame rate:"
+msgstr "最大帧率："
+
+msgid "Miller (poles not squashed)"
+msgstr "米勒 (两极不压缩)"
+
+msgid "Most aircraft shown, as far apart as possible (0 = all)"
+msgstr "最多显示的飞机数 (尽量彼此远离，0 = 全部)"
+
+msgid "Move the picture a few pixels now and then"
+msgstr "不时将画面移动几个像素"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "Neighbouring hues"
+msgstr "相邻色相"
+
+msgid "Neon"
+msgstr "霓虹"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "New collection"
+msgstr "新集合"
+
+msgid "New collection…"
+msgstr "新建集合…"
+
+msgid "New subcollection…"
+msgstr "新建子集合…"
+
+msgid "New theme"
+msgstr "新主题"
+
+msgid "New theme here"
+msgstr "在此新建主题"
+
+msgid "Next World Theme"
+msgstr "下一个 World 主题"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Number of colors:"
+msgstr "颜色数量："
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "Often"
+msgstr "经常"
+
+msgid "On battery:"
+msgstr "使用电池时："
+
+msgid "One hue, many shades"
+msgstr "单一色相，多种深浅"
+
+msgid "Opacity of the aircraft (%)"
+msgstr "飞机不透明度 (%)"
+
+msgid "Opacity of the arcs (%)"
+msgstr "弧线不透明度 (%)"
+
+msgid "Opacity of the names (%)"
+msgstr "名称不透明度 (%)"
+
+msgid "Open folder"
+msgstr "打开文件夹"
+
+msgid "Open theme folder"
+msgstr "打开主题文件夹"
+
+msgid "Overlay:"
+msgstr "叠加显示："
+
+msgid "Own color"
+msgstr "自选颜色"
+
+msgid "Pastel"
+msgstr "粉彩"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Pause while:"
+msgstr "在以下情况暂停："
+
+msgid ""
+"Pausing keeps the picture as it is and costs no power. Drawing continues "
+"where it stopped."
+msgstr "暂停会保持画面不变，也不耗电。绘制将从停下的地方继续。"
+
+msgid "Performance"
+msgstr "性能"
+
+msgid "Power"
+msgstr "电源"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Rainbow (every connection gets its own color)"
+msgstr "彩虹 (每条连线有自己的颜色)"
+
+msgid "Rainbow lightness (lower on bright backgrounds)"
+msgstr "彩虹明度 (浅色背景上调低)"
+
+msgid "Rainbow lines"
+msgstr "彩虹线条"
+
+msgid "Rainbow saturation"
+msgstr "彩虹饱和度"
+
+msgid "Random"
+msgstr "随机"
+
+msgid "Random mix"
+msgstr "随机混合"
+
+msgid "Random order"
+msgstr "随机顺序"
+
+msgid "Randomness:"
+msgstr "随机程度："
+
+msgid "Rare"
+msgstr "偶尔"
+
+msgid "Read the theme folder again."
+msgstr "已重新读取主题文件夹。"
+
+msgid "Reads the theme folder again, for example after you edited or added files"
+msgstr "重新读取主题文件夹，例如编辑或添加文件之后"
+
+msgid "Refresh Aircraft"
+msgstr "刷新飞机"
+
+msgid "Reload from theme folder"
+msgstr "从主题文件夹重新载入"
+
+msgid "Remove all defaults of this collection"
+msgstr "移除此集合的所有默认值"
+
+msgid "Remove all own values, the theme then looks like its collection"
+msgstr "移除所有自有值，主题将与其集合外观一致"
+
+msgid "Remove color"
+msgstr "移除颜色"
+
+msgid "Resolution:"
+msgstr "分辨率："
+
+msgid "Restart World Data Stream"
+msgstr "重启 World 数据流"
+
+msgid "Restore defaults"
+msgstr "恢复默认值"
+
+msgid "Revert"
+msgstr "还原"
+
+msgid "Roll again"
+msgstr "重新随机"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save the changes to \"%1\"?"
+msgstr "要保存对“%1”的更改吗？"
+
+msgid "Save the changes to the defaults of \"%1\"?"
+msgstr "要保存对“%1”默认值的更改吗？"
+
+msgid "Screen refresh rate"
+msgstr "屏幕刷新率"
+
+msgid ""
+"Share of the screen size the picture is calculated at. Lower values use less "
+"memory and power but look coarser."
+msgstr ""
+"画面计算时所用屏幕尺寸的比例。较低的值占用更少内存和电量，但画面更粗糙。"
+
+msgid "Show country borders"
+msgstr "显示国界"
+
+msgid "Show country names"
+msgstr "显示国家名称"
+
+msgid "Show frame rate and resource use"
+msgstr "显示帧率和资源占用"
+
+msgid "Show live aircraft (needs the internet)"
+msgstr "显示实时飞机 (需要联网)"
+
+msgid "Shows frames per second and what this wallpaper costs: CPU time of the data stream, memory for the picture, and the data sent to the GPU per second."
+msgstr "显示每秒帧数以及此壁纸的开销：数据流的 CPU 时间、图像占用的内存和每秒发送到 GPU 的数据量。"
+
+msgid "Size of the aircraft (%)"
+msgstr "飞机大小 (%)"
+
+msgid "Size of the explosions (%)"
+msgstr "爆炸大小 (%)"
+
+msgid "Size of the labels (px)"
+msgstr "标签大小 (px)"
+
+msgid "Size of the names (px)"
+msgstr "名称大小 (px)"
+
+msgid "Size of the nodes (%)"
+msgstr "节点大小 (%)"
+
+msgid "Slow"
+msgstr "慢"
+
+msgid "Sparks per explosion"
+msgstr "每次爆炸的火花数"
+
+msgid "Speed (%)"
+msgstr "速度 (%)"
+
+msgid "Speed:"
+msgstr "速度："
+
+msgid "Strong"
+msgstr "强烈"
+
+msgid "Subtle"
+msgstr "轻微"
+
+msgid "System language"
+msgstr "系统语言"
+
+msgid "Test connection"
+msgstr "测试连接"
+
+msgid ""
+"The collection is created first; the themes inherit what the assistant does "
+"not set from the collection they are inside."
+msgstr "先创建集合；向导未设置的内容，主题会从其所在的集合继承。"
+
+msgid "The defaults of a built-in collection cannot be changed. Use \"Duplicate collection…\" to make an own copy."
+msgstr "无法更改内置合集的默认值。请使用“复制合集…”创建自己的副本。"
+
+msgid ""
+"The preview becomes the first theme, the others are rolled with the same "
+"answers. "
+msgstr "预览将成为第一个主题，其余主题使用相同的回答随机生成。"
+
+msgid ""
+"The themes inherit everything this assistant does not set from their "
+"collection."
+msgstr "向导未设置的所有内容，主题都会从其集合继承。"
+
+msgid "Theme assistant"
+msgstr "主题向导"
+
+msgid "Theme name:"
+msgstr "主题名称："
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "There is already a theme with this name in that collection."
+msgstr "该合集中已有同名主题。"
+
+msgid ""
+"These values apply to every theme in this collection and its subcollections, "
+"unless a theme sets its own."
+msgstr "这些值适用于此集合及其子集合中的所有主题，除非主题设置了自己的值。"
+
+msgid "This collection name is not possible."
+msgstr "不能使用此合集名称。"
+
+msgid "This theme name is not possible."
+msgstr "不能使用此主题名称。"
+
+msgid "Tilt (°, 0 = automatic, 90 = flat)"
+msgstr "倾斜 (°，0 = 自动，90 = 平面)"
+
+msgid "Triad"
+msgstr "三色组"
+
+msgid "Unsaved changes"
+msgstr "未保存的更改"
+
+msgid "Update the aircraft every (minutes)"
+msgstr "每隔多少分钟更新飞机"
+
+msgid "Use the Plasma accent color for the lines"
+msgstr "线条使用 Plasma 强调色"
+
+msgid "Use the inherited value"
+msgstr "使用继承的值"
+
+msgid ""
+"Values marked \"from …\" or \"default\" are inherited. Change one to give "
+"this theme its own value; the arrow takes it back."
+msgstr ""
+"标有“来自 …”或“默认”的值是继承的。修改后即为此主题设置自己的值；点击箭头可恢"
+"复。"
+
+msgid "Vertical position (%)"
+msgstr "垂直位置 (%)"
+
+msgid "View"
+msgstr "视图"
+
+msgid "View:"
+msgstr "视图："
+
+msgid "Warm"
+msgstr "暖色"
+
+msgid "White"
+msgstr "白色"
+
+msgid "World %1"
+msgstr "World %1"
+
+msgid "World themes"
+msgstr "World 主题"
+
+msgid "Your own themes are kept"
+msgstr "您自己的主题会保留"
+
+msgid "Your themes are the files in this folder. Edit or share them, then use \"Reload from theme folder\" here; the desktop takes them over when you apply the settings."
+msgstr "您的主题就是此文件夹中的文件。编辑或分享后，请在此使用“从主题文件夹重新载入”；应用设置时桌面会采用它们。"
+
+msgid "a maximized or fullscreen window covers the desktop"
+msgstr "最大化或全屏窗口覆盖了桌面"
+
+msgid "built-in"
+msgstr "内置"
+
+msgid "changed"
+msgstr "已更改"
+
+msgid "copy"
+msgstr "副本"
+
+msgid "default"
+msgstr "默认"
+
+msgid "error %1"
+msgstr "错误 %1"
+
+msgid "from \"%1\""
+msgstr "来自“%1”"
+
+msgid "not reachable"
+msgstr "无法连接"
+
+msgid "own"
+msgstr "自有"
+
+msgid "set here"
+msgstr "在此设置"
+
+msgid "the screen is locked"
+msgstr "屏幕已锁定"

@@ -1,0 +1,710 @@
+# ru translation of the World wallpaper.
+# GPL-3.0-or-later, like the wallpaper.
+msgid ""
+msgstr ""
+"Project-Id-Version: world-wallpaper\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "%1 FPS"
+msgstr "%1 кадр/с"
+
+msgid "%1 s"
+msgstr "%1 с"
+
+msgid "(top level)"
+msgstr "(верхний уровень)"
+
+msgid "Aircraft"
+msgstr "Самолёты"
+
+msgid "Aircraft color"
+msgstr "Цвет самолётов"
+
+msgid "Aircraft: %1 answered with error %2."
+msgstr "Самолёты: %1 ответил ошибкой %2."
+
+msgid "Aircraft: %1 is not reachable. Is there an internet connection?"
+msgstr "Самолёты: %1 недоступен. Есть ли подключение к интернету?"
+
+msgid "Aircraft: %1 refuses more requests for now, next try in %2 min."
+msgstr "Самолёты: %1 пока не принимает запросы, следующая попытка через %2 мин."
+
+msgid "Aircraft: %1 refuses more requests for now."
+msgstr "Самолёты: %1 пока не принимает запросы."
+
+msgid "Aircraft: %1 sent an answer that cannot be read."
+msgstr "Самолёты: %1 прислал нечитаемый ответ."
+
+msgid "All collections"
+msgstr "Все коллекции"
+
+msgid "Answer a few questions and let the rest be rolled"
+msgstr "Ответьте на несколько вопросов, остальное будет выбрано случайно"
+
+msgid "Arc height (%)"
+msgstr "Высота дуг (%)"
+
+msgid "Around the Plasma accent color"
+msgstr "Вокруг акцентного цвета Plasma"
+
+msgid "Assistant…"
+msgstr "Помощник…"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Automatic tilt"
+msgstr "Автонаклон"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Background color:"
+msgstr "Цвет фона:"
+
+msgid "Background:"
+msgstr "Фон:"
+
+msgid "Battery frame rate:"
+msgstr "Частота кадров от батареи:"
+
+msgid "Black"
+msgstr "Чёрный"
+
+msgid "Border color"
+msgstr "Цвет границ"
+
+msgid "Border opacity (%)"
+msgstr "Непрозрачность границ (%)"
+
+msgid "Border width (px)"
+msgstr "Толщина границ (px)"
+
+msgid "Built-in themes are not changed. Use \"Duplicate\" to make an editable copy."
+msgstr "Встроенные темы не изменяются. Используйте «Дублировать», чтобы создать редактируемую копию."
+
+msgid "Burn-in protection:"
+msgstr "Защита от выгорания:"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Change the theme every:"
+msgstr "Менять тему каждые:"
+
+msgid "Choose which collections and themes run on your desktop. Tick a whole collection or single themes from it. The ticked ones take turns. If nothing is ticked, the default theme runs."
+msgstr "Выберите, какие коллекции и темы будут работать на рабочем столе. Отметьте всю коллекцию или отдельные темы. Отмеченные сменяют друг друга. Если ничего не отмечено, используется тема по умолчанию."
+
+msgid "Choose…"
+msgstr "Выбрать…"
+
+msgid "Cities (% of the places)"
+msgstr "Города (% мест)"
+
+msgid "Clear defaults"
+msgstr "Очистить значения по умолчанию"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Coast line opacity (%)"
+msgstr "Непрозрачность береговой линии (%)"
+
+msgid "Coast line width (px)"
+msgstr "Толщина береговой линии (px)"
+
+msgid "Collapse"
+msgstr "Свернуть"
+
+msgid "Collection name:"
+msgstr "Название коллекции:"
+
+msgid "Collection:"
+msgstr "Коллекция:"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color of the labeled aircraft and their text"
+msgstr "Цвет самолётов с подписью и их текста"
+
+msgid "Color of the names"
+msgstr "Цвет названий"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Colors:"
+msgstr "Цвета:"
+
+msgid "Complementary"
+msgstr "Дополнительные"
+
+msgid "Cool"
+msgstr "Холодные"
+
+msgid ""
+"Copy \"%1\" with its defaults, themes and subcollections to a new collection "
+"of your own. Use a path like \"parent/name\" to put it into another "
+"collection."
+msgstr ""
+"Копировать «%1» с её значениями по умолчанию, темами и подколлекциями в "
+"новую собственную коллекцию. Укажите путь вида «родитель/имя», чтобы "
+"поместить её в другую коллекцию."
+
+msgid "Copy the selected theme"
+msgstr "Копировать выбранную тему"
+
+msgid "Copy the whole collection"
+msgstr "Копировать всю коллекцию"
+
+msgid "Country borders:"
+msgstr "Границы стран:"
+
+msgid "Create %1 themes"
+msgstr "Создать тем: %1"
+
+msgid "Create theme"
+msgstr "Создать тему"
+
+msgid "Dark tone"
+msgstr "Тёмный тон"
+
+msgid "Dashed route of the labeled aircraft"
+msgstr "Пунктирный маршрут самолётов с подписью"
+
+msgid "Data density:"
+msgstr "Плотность данных:"
+
+msgid "Data stream"
+msgstr "Поток данных"
+
+msgid "Defaults of \"%1\""
+msgstr "Значения по умолчанию для «%1»"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete collection"
+msgstr "Удалить коллекцию"
+
+msgid "Delete the collection with your own themes and subcollections in it"
+msgstr "Удалить коллекцию вместе с вашими темами и подколлекциями в ней"
+
+msgid "Delete the selected theme"
+msgstr "Удалить выбранную тему"
+
+msgid "Delete the theme \"%1\"?"
+msgstr "Удалить тему «%1»?"
+
+msgid "Delete theme"
+msgstr "Удалить тему"
+
+msgid "Delete your collection \"%1\" with its defaults, all its own themes and all its subcollections?"
+msgstr "Удалить вашу коллекцию «%1» вместе с её значениями по умолчанию, всеми её темами и подколлекциями?"
+
+msgid "Density (%)"
+msgstr "Плотность (%)"
+
+msgid "Disable built-in themes"
+msgstr "Отключить встроенные темы"
+
+msgid "Discard the changes to \"%1\"?"
+msgstr "Отменить изменения в «%1»?"
+
+msgid "Discard the changes to the defaults of \"%1\"?"
+msgstr "Отменить изменения значений по умолчанию для «%1»?"
+
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgid "Duplicate collection"
+msgstr "Дублировать коллекцию"
+
+msgid "Duplicate collection…"
+msgstr "Дублировать коллекцию…"
+
+msgid "English"
+msgstr "Английский"
+
+msgid "Equirectangular (plain)"
+msgstr "Равнопромежуточная (простая)"
+
+msgid "Expand"
+msgstr "Развернуть"
+
+msgid "Explosion on impact (chance in %)"
+msgstr "Взрыв при попадании (вероятность, %)"
+
+msgid "Explosions:"
+msgstr "Взрывы:"
+
+msgid "Fade:"
+msgstr "Затухание:"
+
+msgid "Faint grid of longitudes and latitudes"
+msgstr "Слабая сетка меридианов и параллелей"
+
+msgid "Fast"
+msgstr "Быстро"
+
+msgid "Few"
+msgstr "Мало"
+
+msgid "Flat"
+msgstr "Плоская"
+
+msgid "For OLED screens: once a minute the whole picture shifts by up to 6 pixels, so no line stays on the same pixels for months."
+msgstr "Для OLED-экранов: раз в минуту вся картинка смещается до 6 пикселей, чтобы линии месяцами не оставались на одних и тех же пикселях."
+
+msgid "Generated"
+msgstr "Создано"
+
+msgid "How far density, speed and explosions may wander from their typical values: %1 %"
+msgstr "Насколько плотность, скорость и взрывы могут отклоняться от типичных значений: %1 %"
+
+msgid "How many:"
+msgstr "Сколько:"
+
+msgid "Inherit everything"
+msgstr "Наследовать всё"
+
+msgid "Inside \"%1\" (inherits its defaults)"
+msgstr "Внутри «%1» (наследует её значения по умолчанию)"
+
+msgid "Inside:"
+msgstr "Внутри:"
+
+msgid "Keep running normally"
+msgstr "Работать как обычно"
+
+msgid "Label: aircraft type and registration"
+msgstr "Подпись: тип самолёта и регистрация"
+
+msgid "Label: airline or owner"
+msgstr "Подпись: авиакомпания или владелец"
+
+msgid "Label: altitude and speed"
+msgstr "Подпись: высота и скорость"
+
+msgid "Label: departure and destination"
+msgstr "Подпись: вылет и назначение"
+
+msgid "Labeled aircraft"
+msgstr "Самолёты с подписью"
+
+msgid "Labels (switch off to show no text at all)"
+msgstr "Подписи (выключите, чтобы не показывать текст вообще)"
+
+msgid "Language of the names"
+msgstr "Язык названий"
+
+msgid "Light tone"
+msgstr "Светлый тон"
+
+msgid "Limit the frame rate"
+msgstr "Ограничить частоту кадров"
+
+msgid "Line colors"
+msgstr "Цвета линий"
+
+msgid "Lower values save power. The map itself is drawn only once, only the data stream is animated."
+msgstr "Меньшие значения экономят энергию. Карта рисуется один раз, анимируется только поток данных."
+
+msgid "Manage themes…"
+msgstr "Управление темами…"
+
+msgid "Many"
+msgstr "Много"
+
+msgid "Map"
+msgstr "Карта"
+
+msgid "Map projection"
+msgstr "Проекция карты"
+
+msgid "Map size (%)"
+msgstr "Размер карты (%)"
+
+msgid "Maximum frame rate:"
+msgstr "Максимальная частота кадров:"
+
+msgid "Miller (poles not squashed)"
+msgstr "Миллера (полюса не сплющены)"
+
+msgid "Most aircraft shown, as far apart as possible (0 = all)"
+msgstr "Максимум самолётов, как можно дальше друг от друга (0 = все)"
+
+msgid "Move the picture a few pixels now and then"
+msgstr "Время от времени смещать картинку на несколько пикселей"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Name:"
+msgstr "Название:"
+
+msgid "Neighbouring hues"
+msgstr "Соседние оттенки"
+
+msgid "Neon"
+msgstr "Неон"
+
+msgid "Never"
+msgstr "Никогда"
+
+msgid "New collection"
+msgstr "Новая коллекция"
+
+msgid "New collection…"
+msgstr "Новая коллекция…"
+
+msgid "New subcollection…"
+msgstr "Новая подколлекция…"
+
+msgid "New theme"
+msgstr "Новая тема"
+
+msgid "New theme here"
+msgstr "Новая тема здесь"
+
+msgid "Next World Theme"
+msgstr "Следующая тема World"
+
+msgid "Normal"
+msgstr "Обычно"
+
+msgid "Number of colors:"
+msgstr "Количество цветов:"
+
+msgid "Off"
+msgstr "Выкл."
+
+msgid "Often"
+msgstr "Часто"
+
+msgid "On battery:"
+msgstr "От батареи:"
+
+msgid "One hue, many shades"
+msgstr "Один оттенок, много градаций"
+
+msgid "Opacity of the aircraft (%)"
+msgstr "Непрозрачность самолётов (%)"
+
+msgid "Opacity of the arcs (%)"
+msgstr "Непрозрачность дуг (%)"
+
+msgid "Opacity of the names (%)"
+msgstr "Непрозрачность названий (%)"
+
+msgid "Open folder"
+msgstr "Открыть папку"
+
+msgid "Open theme folder"
+msgstr "Открыть папку тем"
+
+msgid "Overlay:"
+msgstr "Наложение:"
+
+msgid "Own color"
+msgstr "Свой цвет"
+
+msgid "Pastel"
+msgstr "Пастель"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Pause while:"
+msgstr "Приостанавливать, когда:"
+
+msgid ""
+"Pausing keeps the picture as it is and costs no power. Drawing continues "
+"where it stopped."
+msgstr ""
+"При паузе картинка остаётся как есть и энергия не расходуется. Рисование "
+"продолжится с того же места."
+
+msgid "Performance"
+msgstr "Производительность"
+
+msgid "Power"
+msgstr "Питание"
+
+msgid "Preview"
+msgstr "Предпросмотр"
+
+msgid "Rainbow (every connection gets its own color)"
+msgstr "Радуга (у каждого соединения свой цвет)"
+
+msgid "Rainbow lightness (lower on bright backgrounds)"
+msgstr "Яркость радуги (ниже на светлом фоне)"
+
+msgid "Rainbow lines"
+msgstr "Радужные линии"
+
+msgid "Rainbow saturation"
+msgstr "Насыщенность радуги"
+
+msgid "Random"
+msgstr "Случайно"
+
+msgid "Random mix"
+msgstr "Случайный набор"
+
+msgid "Random order"
+msgstr "Случайный порядок"
+
+msgid "Randomness:"
+msgstr "Случайность:"
+
+msgid "Rare"
+msgstr "Редко"
+
+msgid "Read the theme folder again."
+msgstr "Папка тем перечитана."
+
+msgid "Reads the theme folder again, for example after you edited or added files"
+msgstr "Заново читает папку тем, например после изменения или добавления файлов"
+
+msgid "Refresh Aircraft"
+msgstr "Обновить самолёты"
+
+msgid "Reload from theme folder"
+msgstr "Перечитать из папки тем"
+
+msgid "Remove all defaults of this collection"
+msgstr "Удалить все значения по умолчанию этой коллекции"
+
+msgid "Remove all own values, the theme then looks like its collection"
+msgstr ""
+"Удалить все собственные значения, тема тогда будет выглядеть как её коллекция"
+
+msgid "Remove color"
+msgstr "Удалить цвет"
+
+msgid "Resolution:"
+msgstr "Разрешение:"
+
+msgid "Restart World Data Stream"
+msgstr "Перезапустить поток данных World"
+
+msgid "Restore defaults"
+msgstr "Восстановить значения по умолчанию"
+
+msgid "Revert"
+msgstr "Вернуть"
+
+msgid "Roll again"
+msgstr "Бросить заново"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save the changes to \"%1\"?"
+msgstr "Сохранить изменения в «%1»?"
+
+msgid "Save the changes to the defaults of \"%1\"?"
+msgstr "Сохранить изменения значений по умолчанию для «%1»?"
+
+msgid "Screen refresh rate"
+msgstr "Частота обновления экрана"
+
+msgid ""
+"Share of the screen size the picture is calculated at. Lower values use less "
+"memory and power but look coarser."
+msgstr ""
+"Доля размера экрана, при которой рассчитывается картинка. Меньшие значения "
+"требуют меньше памяти и энергии, но выглядят грубее."
+
+msgid "Show country borders"
+msgstr "Показывать границы стран"
+
+msgid "Show country names"
+msgstr "Показывать названия стран"
+
+msgid "Show frame rate and resource use"
+msgstr "Показывать частоту кадров и использование ресурсов"
+
+msgid "Show live aircraft (needs the internet)"
+msgstr "Показывать самолёты в реальном времени (нужен интернет)"
+
+msgid "Shows frames per second and what this wallpaper costs: CPU time of the data stream, memory for the picture, and the data sent to the GPU per second."
+msgstr "Показывает кадры в секунду и затраты этих обоев: время ЦП на поток данных, память под картинку и данные, отправляемые на GPU в секунду."
+
+msgid "Size of the aircraft (%)"
+msgstr "Размер самолётов (%)"
+
+msgid "Size of the explosions (%)"
+msgstr "Размер взрывов (%)"
+
+msgid "Size of the labels (px)"
+msgstr "Размер подписей (px)"
+
+msgid "Size of the names (px)"
+msgstr "Размер названий (px)"
+
+msgid "Size of the nodes (%)"
+msgstr "Размер узлов (%)"
+
+msgid "Slow"
+msgstr "Медленно"
+
+msgid "Sparks per explosion"
+msgstr "Искр на взрыв"
+
+msgid "Speed (%)"
+msgstr "Скорость (%)"
+
+msgid "Speed:"
+msgstr "Скорость:"
+
+msgid "Strong"
+msgstr "Сильно"
+
+msgid "Subtle"
+msgstr "Слабо"
+
+msgid "System language"
+msgstr "Язык системы"
+
+msgid "Test connection"
+msgstr "Проверить подключение"
+
+msgid ""
+"The collection is created first; the themes inherit what the assistant does "
+"not set from the collection they are inside."
+msgstr ""
+"Сначала создаётся коллекция; темы наследуют от коллекции, в которой лежат, "
+"всё, что не задал помощник."
+
+msgid "The defaults of a built-in collection cannot be changed. Use \"Duplicate collection…\" to make an own copy."
+msgstr "Значения по умолчанию встроенной коллекции изменить нельзя. Используйте «Дублировать коллекцию…», чтобы создать собственную копию."
+
+msgid ""
+"The preview becomes the first theme, the others are rolled with the same "
+"answers. "
+msgstr ""
+"Предпросмотр становится первой темой, остальные выбираются случайно с теми "
+"же ответами. "
+
+msgid ""
+"The themes inherit everything this assistant does not set from their "
+"collection."
+msgstr "Темы наследуют от своей коллекции всё, что этот помощник не задаёт."
+
+msgid "Theme assistant"
+msgstr "Помощник тем"
+
+msgid "Theme name:"
+msgstr "Название темы:"
+
+msgid "Themes"
+msgstr "Темы"
+
+msgid "There is already a theme with this name in that collection."
+msgstr "В этой коллекции уже есть тема с таким именем."
+
+msgid ""
+"These values apply to every theme in this collection and its subcollections, "
+"unless a theme sets its own."
+msgstr ""
+"Эти значения действуют для всех тем этой коллекции и её подколлекций, если "
+"тема не задаёт свои."
+
+msgid "This collection name is not possible."
+msgstr "Это имя коллекции недопустимо."
+
+msgid "This theme name is not possible."
+msgstr "Это имя темы недопустимо."
+
+msgid "Tilt (°, 0 = automatic, 90 = flat)"
+msgstr "Наклон (°, 0 = авто, 90 = плоская)"
+
+msgid "Triad"
+msgstr "Триада"
+
+msgid "Unsaved changes"
+msgstr "Несохранённые изменения"
+
+msgid "Update the aircraft every (minutes)"
+msgstr "Обновлять самолёты каждые (минут)"
+
+msgid "Use the Plasma accent color for the lines"
+msgstr "Использовать акцентный цвет Plasma для линий"
+
+msgid "Use the inherited value"
+msgstr "Использовать унаследованное значение"
+
+msgid ""
+"Values marked \"from …\" or \"default\" are inherited. Change one to give "
+"this theme its own value; the arrow takes it back."
+msgstr ""
+"Значения с пометкой «из …» или «по умолчанию» унаследованы. Измените "
+"значение, чтобы задать этой теме собственное; стрелка вернёт его."
+
+msgid "Vertical position (%)"
+msgstr "Положение по вертикали (%)"
+
+msgid "View"
+msgstr "Вид"
+
+msgid "View:"
+msgstr "Вид:"
+
+msgid "Warm"
+msgstr "Тёплые"
+
+msgid "White"
+msgstr "Белый"
+
+msgid "World %1"
+msgstr "World %1"
+
+msgid "World themes"
+msgstr "Темы World"
+
+msgid "Your own themes are kept"
+msgstr "Ваши собственные темы сохраняются"
+
+msgid "Your themes are the files in this folder. Edit or share them, then use \"Reload from theme folder\" here; the desktop takes them over when you apply the settings."
+msgstr "Ваши темы — это файлы в этой папке. Изменяйте или передавайте их, затем нажмите здесь «Перечитать из папки тем»; рабочий стол подхватит их при применении настроек."
+
+msgid "a maximized or fullscreen window covers the desktop"
+msgstr "окно развёрнуто или показано на весь экран поверх рабочего стола"
+
+msgid "built-in"
+msgstr "встроенная"
+
+msgid "changed"
+msgstr "изменено"
+
+msgid "copy"
+msgstr "копия"
+
+msgid "default"
+msgstr "по умолчанию"
+
+msgid "error %1"
+msgstr "ошибка %1"
+
+msgid "from \"%1\""
+msgstr "из «%1»"
+
+msgid "not reachable"
+msgstr "недоступен"
+
+msgid "own"
+msgstr "своя"
+
+msgid "set here"
+msgstr "задано здесь"
+
+msgid "the screen is locked"
+msgstr "экран заблокирован"

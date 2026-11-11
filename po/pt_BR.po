@@ -1,0 +1,708 @@
+# pt_BR translation of the World wallpaper.
+# GPL-3.0-or-later, like the wallpaper.
+msgid ""
+msgstr ""
+"Project-Id-Version: world-wallpaper\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "%1 FPS"
+msgstr "%1 FPS"
+
+msgid "%1 s"
+msgstr "%1 s"
+
+msgid "(top level)"
+msgstr "(nível superior)"
+
+msgid "Aircraft"
+msgstr "Aeronaves"
+
+msgid "Aircraft color"
+msgstr "Cor das aeronaves"
+
+msgid "Aircraft: %1 answered with error %2."
+msgstr "Aeronaves: %1 respondeu com o erro %2."
+
+msgid "Aircraft: %1 is not reachable. Is there an internet connection?"
+msgstr "Aeronaves: %1 não está acessível. Há conexão com a internet?"
+
+msgid "Aircraft: %1 refuses more requests for now, next try in %2 min."
+msgstr "Aeronaves: %1 não aceita mais solicitações por enquanto, próxima tentativa em %2 min."
+
+msgid "Aircraft: %1 refuses more requests for now."
+msgstr "Aeronaves: %1 não aceita mais solicitações por enquanto."
+
+msgid "Aircraft: %1 sent an answer that cannot be read."
+msgstr "Aeronaves: %1 enviou uma resposta ilegível."
+
+msgid "All collections"
+msgstr "Todas as coleções"
+
+msgid "Answer a few questions and let the rest be rolled"
+msgstr "Responda a algumas perguntas e o resto é sorteado"
+
+msgid "Arc height (%)"
+msgstr "Altura dos arcos (%)"
+
+msgid "Around the Plasma accent color"
+msgstr "Em torno da cor de destaque do Plasma"
+
+msgid "Assistant…"
+msgstr "Assistente…"
+
+msgid "Auto"
+msgstr "Automático"
+
+msgid "Automatic tilt"
+msgstr "Inclinação automática"
+
+msgid "Background"
+msgstr "Plano de fundo"
+
+msgid "Background color:"
+msgstr "Cor do plano de fundo:"
+
+msgid "Background:"
+msgstr "Plano de fundo:"
+
+msgid "Battery frame rate:"
+msgstr "Taxa de quadros na bateria:"
+
+msgid "Black"
+msgstr "Preto"
+
+msgid "Border color"
+msgstr "Cor das fronteiras"
+
+msgid "Border opacity (%)"
+msgstr "Opacidade das fronteiras (%)"
+
+msgid "Border width (px)"
+msgstr "Largura das fronteiras (px)"
+
+msgid "Built-in themes are not changed. Use \"Duplicate\" to make an editable copy."
+msgstr "Os temas integrados não são alterados. Use «Duplicar» para criar uma cópia editável."
+
+msgid "Burn-in protection:"
+msgstr "Proteção contra burn-in:"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Change the theme every:"
+msgstr "Trocar o tema a cada:"
+
+msgid "Choose which collections and themes run on your desktop. Tick a whole collection or single themes from it. The ticked ones take turns. If nothing is ticked, the default theme runs."
+msgstr "Escolha quais coleções e temas rodam na sua área de trabalho. Marque uma coleção inteira ou temas avulsos. Os marcados se alternam. Se nada estiver marcado, o tema padrão é usado."
+
+msgid "Choose…"
+msgstr "Escolher…"
+
+msgid "Cities (% of the places)"
+msgstr "Cidades (% dos lugares)"
+
+msgid "Clear defaults"
+msgstr "Limpar padrões"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Coast line opacity (%)"
+msgstr "Opacidade da costa (%)"
+
+msgid "Coast line width (px)"
+msgstr "Largura da costa (px)"
+
+msgid "Collapse"
+msgstr "Recolher"
+
+msgid "Collection name:"
+msgstr "Nome da coleção:"
+
+msgid "Collection:"
+msgstr "Coleção:"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Color of the labeled aircraft and their text"
+msgstr "Cor das aeronaves com rótulo e do texto"
+
+msgid "Color of the names"
+msgstr "Cor dos nomes"
+
+msgid "Colors"
+msgstr "Cores"
+
+msgid "Colors:"
+msgstr "Cores:"
+
+msgid "Complementary"
+msgstr "Complementares"
+
+msgid "Cool"
+msgstr "Frias"
+
+msgid ""
+"Copy \"%1\" with its defaults, themes and subcollections to a new collection "
+"of your own. Use a path like \"parent/name\" to put it into another "
+"collection."
+msgstr ""
+"Copiar “%1” com seus padrões, temas e subcoleções para uma nova coleção "
+"própria. Use um caminho como “pai/nome” para colocá-la em outra coleção."
+
+msgid "Copy the selected theme"
+msgstr "Copiar o tema selecionado"
+
+msgid "Copy the whole collection"
+msgstr "Copiar a coleção inteira"
+
+msgid "Country borders:"
+msgstr "Fronteiras:"
+
+msgid "Create %1 themes"
+msgstr "Criar %1 temas"
+
+msgid "Create theme"
+msgstr "Criar tema"
+
+msgid "Dark tone"
+msgstr "Tom escuro"
+
+msgid "Dashed route of the labeled aircraft"
+msgstr "Rota tracejada das aeronaves com rótulo"
+
+msgid "Data density:"
+msgstr "Densidade de dados:"
+
+msgid "Data stream"
+msgstr "Fluxo de dados"
+
+msgid "Defaults of \"%1\""
+msgstr "Padrões de “%1”"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Delete collection"
+msgstr "Excluir coleção"
+
+msgid "Delete the collection with your own themes and subcollections in it"
+msgstr "Excluir a coleção com seus temas próprios e as subcoleções dentro dela"
+
+msgid "Delete the selected theme"
+msgstr "Excluir o tema selecionado"
+
+msgid "Delete the theme \"%1\"?"
+msgstr "Excluir o tema “%1”?"
+
+msgid "Delete theme"
+msgstr "Excluir tema"
+
+msgid "Delete your collection \"%1\" with its defaults, all its own themes and all its subcollections?"
+msgstr "Excluir sua coleção «%1» com seus valores padrão, todos os seus temas e todas as suas subcoleções?"
+
+msgid "Density (%)"
+msgstr "Densidade (%)"
+
+msgid "Disable built-in themes"
+msgstr "Desativar temas internos"
+
+msgid "Discard the changes to \"%1\"?"
+msgstr "Descartar as alterações em “%1”?"
+
+msgid "Discard the changes to the defaults of \"%1\"?"
+msgstr "Descartar as alterações nos padrões de “%1”?"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Duplicate collection"
+msgstr "Duplicar coleção"
+
+msgid "Duplicate collection…"
+msgstr "Duplicar coleção…"
+
+msgid "English"
+msgstr "Inglês"
+
+msgid "Equirectangular (plain)"
+msgstr "Equiretangular (simples)"
+
+msgid "Expand"
+msgstr "Expandir"
+
+msgid "Explosion on impact (chance in %)"
+msgstr "Explosão no impacto (chance em %)"
+
+msgid "Explosions:"
+msgstr "Explosões:"
+
+msgid "Fade:"
+msgstr "Transição:"
+
+msgid "Faint grid of longitudes and latitudes"
+msgstr "Grade suave de longitudes e latitudes"
+
+msgid "Fast"
+msgstr "Rápido"
+
+msgid "Few"
+msgstr "Poucas"
+
+msgid "Flat"
+msgstr "Plano"
+
+msgid "For OLED screens: once a minute the whole picture shifts by up to 6 pixels, so no line stays on the same pixels for months."
+msgstr "Para telas OLED: uma vez por minuto a imagem inteira se desloca até 6 pixels, assim nenhuma linha fica meses nos mesmos pixels."
+
+msgid "Generated"
+msgstr "Gerado"
+
+msgid "How far density, speed and explosions may wander from their typical values: %1 %"
+msgstr "O quanto densidade, velocidade e explosões podem se afastar dos valores típicos: %1 %"
+
+msgid "How many:"
+msgstr "Quantos:"
+
+msgid "Inherit everything"
+msgstr "Herdar tudo"
+
+msgid "Inside \"%1\" (inherits its defaults)"
+msgstr "Dentro de “%1” (herda seus padrões)"
+
+msgid "Inside:"
+msgstr "Dentro de:"
+
+msgid "Keep running normally"
+msgstr "Continuar normalmente"
+
+msgid "Label: aircraft type and registration"
+msgstr "Rótulo: tipo da aeronave e matrícula"
+
+msgid "Label: airline or owner"
+msgstr "Rótulo: companhia aérea ou proprietário"
+
+msgid "Label: altitude and speed"
+msgstr "Rótulo: altitude e velocidade"
+
+msgid "Label: departure and destination"
+msgstr "Rótulo: origem e destino"
+
+msgid "Labeled aircraft"
+msgstr "Aeronaves com rótulo"
+
+msgid "Labels (switch off to show no text at all)"
+msgstr "Rótulos (desative para não mostrar nenhum texto)"
+
+msgid "Language of the names"
+msgstr "Idioma dos nomes"
+
+msgid "Light tone"
+msgstr "Tom claro"
+
+msgid "Limit the frame rate"
+msgstr "Limitar a taxa de quadros"
+
+msgid "Line colors"
+msgstr "Cores das linhas"
+
+msgid "Lower values save power. The map itself is drawn only once, only the data stream is animated."
+msgstr "Valores menores economizam energia. O mapa é desenhado só uma vez; apenas o fluxo de dados é animado."
+
+msgid "Manage themes…"
+msgstr "Gerenciar temas…"
+
+msgid "Many"
+msgstr "Muitas"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Map projection"
+msgstr "Projeção do mapa"
+
+msgid "Map size (%)"
+msgstr "Tamanho do mapa (%)"
+
+msgid "Maximum frame rate:"
+msgstr "Taxa de quadros máxima:"
+
+msgid "Miller (poles not squashed)"
+msgstr "Miller (polos não achatados)"
+
+msgid "Most aircraft shown, as far apart as possible (0 = all)"
+msgstr "Máximo de aeronaves exibidas, o mais distantes possível (0 = todas)"
+
+msgid "Move the picture a few pixels now and then"
+msgstr "Mover a imagem alguns pixels de vez em quando"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Name:"
+msgstr "Nome:"
+
+msgid "Neighbouring hues"
+msgstr "Matizes vizinhos"
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "New collection"
+msgstr "Nova coleção"
+
+msgid "New collection…"
+msgstr "Nova coleção…"
+
+msgid "New subcollection…"
+msgstr "Nova subcoleção…"
+
+msgid "New theme"
+msgstr "Novo tema"
+
+msgid "New theme here"
+msgstr "Novo tema aqui"
+
+msgid "Next World Theme"
+msgstr "Próximo tema do World"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Number of colors:"
+msgstr "Número de cores:"
+
+msgid "Off"
+msgstr "Desligadas"
+
+msgid "Often"
+msgstr "Frequentes"
+
+msgid "On battery:"
+msgstr "Na bateria:"
+
+msgid "One hue, many shades"
+msgstr "Um matiz, muitos tons"
+
+msgid "Opacity of the aircraft (%)"
+msgstr "Opacidade das aeronaves (%)"
+
+msgid "Opacity of the arcs (%)"
+msgstr "Opacidade dos arcos (%)"
+
+msgid "Opacity of the names (%)"
+msgstr "Opacidade dos nomes (%)"
+
+msgid "Open folder"
+msgstr "Abrir pasta"
+
+msgid "Open theme folder"
+msgstr "Abrir pasta de temas"
+
+msgid "Overlay:"
+msgstr "Sobreposição:"
+
+msgid "Own color"
+msgstr "Cor própria"
+
+msgid "Pastel"
+msgstr "Pastel"
+
+msgid "Pause"
+msgstr "Pausar"
+
+msgid "Pause while:"
+msgstr "Pausar enquanto:"
+
+msgid ""
+"Pausing keeps the picture as it is and costs no power. Drawing continues "
+"where it stopped."
+msgstr ""
+"Pausar mantém a imagem como está e não gasta energia. O desenho continua de "
+"onde parou."
+
+msgid "Performance"
+msgstr "Desempenho"
+
+msgid "Power"
+msgstr "Energia"
+
+msgid "Preview"
+msgstr "Pré-visualização"
+
+msgid "Rainbow (every connection gets its own color)"
+msgstr "Arco-íris (cada conexão tem sua própria cor)"
+
+msgid "Rainbow lightness (lower on bright backgrounds)"
+msgstr "Luminosidade do arco-íris (menor em fundos claros)"
+
+msgid "Rainbow lines"
+msgstr "Linhas arco-íris"
+
+msgid "Rainbow saturation"
+msgstr "Saturação do arco-íris"
+
+msgid "Random"
+msgstr "Aleatório"
+
+msgid "Random mix"
+msgstr "Mistura aleatória"
+
+msgid "Random order"
+msgstr "Ordem aleatória"
+
+msgid "Randomness:"
+msgstr "Aleatoriedade:"
+
+msgid "Rare"
+msgstr "Raras"
+
+msgid "Read the theme folder again."
+msgstr "A pasta de temas foi lida novamente."
+
+msgid "Reads the theme folder again, for example after you edited or added files"
+msgstr "Lê a pasta de temas novamente, por exemplo após editar ou adicionar arquivos"
+
+msgid "Refresh Aircraft"
+msgstr "Atualizar aeronaves"
+
+msgid "Reload from theme folder"
+msgstr "Recarregar da pasta de temas"
+
+msgid "Remove all defaults of this collection"
+msgstr "Remover todos os padrões desta coleção"
+
+msgid "Remove all own values, the theme then looks like its collection"
+msgstr "Remover todos os valores próprios, o tema então fica como sua coleção"
+
+msgid "Remove color"
+msgstr "Remover cor"
+
+msgid "Resolution:"
+msgstr "Resolução:"
+
+msgid "Restart World Data Stream"
+msgstr "Reiniciar o fluxo de dados do World"
+
+msgid "Restore defaults"
+msgstr "Restaurar padrões"
+
+msgid "Revert"
+msgstr "Reverter"
+
+msgid "Roll again"
+msgstr "Sortear de novo"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Save the changes to \"%1\"?"
+msgstr "Salvar as alterações em «%1»?"
+
+msgid "Save the changes to the defaults of \"%1\"?"
+msgstr "Salvar as alterações nos padrões de «%1»?"
+
+msgid "Screen refresh rate"
+msgstr "Taxa de atualização da tela"
+
+msgid ""
+"Share of the screen size the picture is calculated at. Lower values use less "
+"memory and power but look coarser."
+msgstr ""
+"Parte do tamanho da tela em que a imagem é calculada. Valores menores usam "
+"menos memória e energia, mas têm aparência mais grosseira."
+
+msgid "Show country borders"
+msgstr "Mostrar fronteiras"
+
+msgid "Show country names"
+msgstr "Mostrar nomes dos países"
+
+msgid "Show frame rate and resource use"
+msgstr "Mostrar taxa de quadros e uso de recursos"
+
+msgid "Show live aircraft (needs the internet)"
+msgstr "Mostrar aeronaves ao vivo (requer internet)"
+
+msgid "Shows frames per second and what this wallpaper costs: CPU time of the data stream, memory for the picture, and the data sent to the GPU per second."
+msgstr "Mostra os quadros por segundo e o custo deste papel de parede: tempo de CPU do fluxo de dados, memória da imagem e dados enviados à GPU por segundo."
+
+msgid "Size of the aircraft (%)"
+msgstr "Tamanho das aeronaves (%)"
+
+msgid "Size of the explosions (%)"
+msgstr "Tamanho das explosões (%)"
+
+msgid "Size of the labels (px)"
+msgstr "Tamanho dos rótulos (px)"
+
+msgid "Size of the names (px)"
+msgstr "Tamanho dos nomes (px)"
+
+msgid "Size of the nodes (%)"
+msgstr "Tamanho dos nós (%)"
+
+msgid "Slow"
+msgstr "Lento"
+
+msgid "Sparks per explosion"
+msgstr "Faíscas por explosão"
+
+msgid "Speed (%)"
+msgstr "Velocidade (%)"
+
+msgid "Speed:"
+msgstr "Velocidade:"
+
+msgid "Strong"
+msgstr "Forte"
+
+msgid "Subtle"
+msgstr "Sutil"
+
+msgid "System language"
+msgstr "Idioma do sistema"
+
+msgid "Test connection"
+msgstr "Testar conexão"
+
+msgid ""
+"The collection is created first; the themes inherit what the assistant does "
+"not set from the collection they are inside."
+msgstr ""
+"A coleção é criada primeiro; os temas herdam da coleção em que estão o que o "
+"assistente não define."
+
+msgid "The defaults of a built-in collection cannot be changed. Use \"Duplicate collection…\" to make an own copy."
+msgstr "Os padrões de uma coleção integrada não podem ser alterados. Use «Duplicar coleção…» para criar uma cópia própria."
+
+msgid ""
+"The preview becomes the first theme, the others are rolled with the same "
+"answers. "
+msgstr ""
+"A pré-visualização vira o primeiro tema, os outros são sorteados com as "
+"mesmas respostas. "
+
+msgid ""
+"The themes inherit everything this assistant does not set from their "
+"collection."
+msgstr "Os temas herdam de sua coleção tudo o que este assistente não define."
+
+msgid "Theme assistant"
+msgstr "Assistente de temas"
+
+msgid "Theme name:"
+msgstr "Nome do tema:"
+
+msgid "Themes"
+msgstr "Temas"
+
+msgid "There is already a theme with this name in that collection."
+msgstr "Já existe um tema com este nome nessa coleção."
+
+msgid ""
+"These values apply to every theme in this collection and its subcollections, "
+"unless a theme sets its own."
+msgstr ""
+"Estes valores valem para todos os temas desta coleção e de suas subcoleções, "
+"a menos que um tema defina os seus."
+
+msgid "This collection name is not possible."
+msgstr "Este nome de coleção não é possível."
+
+msgid "This theme name is not possible."
+msgstr "Este nome de tema não é possível."
+
+msgid "Tilt (°, 0 = automatic, 90 = flat)"
+msgstr "Inclinação (°, 0 = automática, 90 = plano)"
+
+msgid "Triad"
+msgstr "Tríade"
+
+msgid "Unsaved changes"
+msgstr "Alterações não salvas"
+
+msgid "Update the aircraft every (minutes)"
+msgstr "Atualizar as aeronaves a cada (minutos)"
+
+msgid "Use the Plasma accent color for the lines"
+msgstr "Usar a cor de destaque do Plasma nas linhas"
+
+msgid "Use the inherited value"
+msgstr "Usar o valor herdado"
+
+msgid ""
+"Values marked \"from …\" or \"default\" are inherited. Change one to give "
+"this theme its own value; the arrow takes it back."
+msgstr ""
+"Valores marcados com “de …” ou “padrão” são herdados. Altere um para dar a "
+"este tema um valor próprio; a seta o traz de volta."
+
+msgid "Vertical position (%)"
+msgstr "Posição vertical (%)"
+
+msgid "View"
+msgstr "Visualização"
+
+msgid "View:"
+msgstr "Visualização:"
+
+msgid "Warm"
+msgstr "Quentes"
+
+msgid "White"
+msgstr "Branco"
+
+msgid "World %1"
+msgstr "World %1"
+
+msgid "World themes"
+msgstr "Temas do World"
+
+msgid "Your own themes are kept"
+msgstr "Seus próprios temas são mantidos"
+
+msgid "Your themes are the files in this folder. Edit or share them, then use \"Reload from theme folder\" here; the desktop takes them over when you apply the settings."
+msgstr "Seus temas são os arquivos desta pasta. Edite ou compartilhe-os e use aqui «Recarregar da pasta de temas»; a área de trabalho os adota quando você aplica as configurações."
+
+msgid "a maximized or fullscreen window covers the desktop"
+msgstr "uma janela maximizada ou em tela cheia cobre a área de trabalho"
+
+msgid "built-in"
+msgstr "interno"
+
+msgid "changed"
+msgstr "alterado"
+
+msgid "copy"
+msgstr "cópia"
+
+msgid "default"
+msgstr "padrão"
+
+msgid "error %1"
+msgstr "erro %1"
+
+msgid "from \"%1\""
+msgstr "de “%1”"
+
+msgid "not reachable"
+msgstr "inacessível"
+
+msgid "own"
+msgstr "próprio"
+
+msgid "set here"
+msgstr "definido aqui"
+
+msgid "the screen is locked"
+msgstr "a tela está bloqueada"
